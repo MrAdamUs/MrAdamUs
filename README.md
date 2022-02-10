@@ -15,6 +15,7 @@
 </div>
   <br />
   <p> Hi there 👋 </p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7862E&lines=Welcome+to+my+Github+;I+am+Full+Stack+Developer+)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
