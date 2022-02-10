@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/github/stars/:MrAdamUs?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub Badge"/>
   </a>
 </div>
 
