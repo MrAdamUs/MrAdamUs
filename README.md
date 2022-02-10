@@ -12,16 +12,13 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/github/stars/MrAdamUs?style=social" alt="GitHub Badge"/>
-  </a>
 </div>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-[
+---------------------------------------------------------------------------------------------------------
 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
