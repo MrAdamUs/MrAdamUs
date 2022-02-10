@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/stars/MrAdamUs?style=social" alt="GitHub Badge"/>
   </a>
 </div>
-  Hi there 👋
+  <p> Hi there 👋 </p>
 </div>
 
 <div align="center">
