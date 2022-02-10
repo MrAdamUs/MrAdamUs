@@ -2,7 +2,7 @@
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7862E&lines=Welcome+to+my+Github+;I+am+Full+Stack+Developer+)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <div id="badges">
@@ -17,7 +17,7 @@
   </a>
 </div>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7862E&lines=Welcome+to+my+Github+;I+am+Full+Stack+Developer+)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
