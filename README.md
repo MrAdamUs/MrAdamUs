@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
-
+https://img.shields.io/badge/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR
 
 <!--
 **MrAdamUs/MrAdamUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
