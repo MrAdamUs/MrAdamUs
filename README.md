@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/github/stars/MrAdamUs?style=social" alt="GitHub Badge"/>
   </a>
 </div>
+</div>
+
+<div align="center">
+  ### Hi there 👋
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
