@@ -16,11 +16,10 @@
   <br />
   <p> Hi there 👋 </p>
 </div>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7862E&lines=Welcome+to+my+Github+;I+am+Full+Stack+Developer+)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7862E&lines=Welcome+to+my+Github+;I+am+Full+Stack+Developer+)](https://git.io/typing-svg)
 👨‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
