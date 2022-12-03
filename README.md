@@ -6,20 +6,14 @@ Full Stack MERN Engineer
 
 I’m working as a Software Engineer and contributing to frontend and backend of building web applications.
 
-* 🌍  I'm based in USA
-* ✉️  You can contact me at [mr.mawlawi@gmail.com](mailto:mr.mawlawi@gmail.com)
-* 🚀  I'm currently working on [one of BestBuy Health Cloud Application](http://https://healthcare.bestbuy.com/)
-* 🧠  I'm learning Go
-* 🤝  I'm open to collaborating on Projects
-
-<a href="https://www.twitter.com/MrMawlawi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MrMawlawi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/MrAdamUS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MrAdamUS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
+*   🌍  I'm based in USA
+*   ✉️  You can contact me at [adam@mradam.us](mailto:adam@mradam.us)
+*   🚀  I'm currently working on [one of BestBuy Health Cloud Application](http://https://healthcare.bestbuy.com/)
+*   🧠  I'm learning Go
+*   🤝  I'm open to collaborating on Projects<a href="https://www.twitter.com/MrMawlawi" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/MrMawlawi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/MrAdamUS" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/MrAdamUS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -57,20 +51,20 @@ src="https://img.shields.io/github/followers/MrAdamUS?logo=github&style=for-the-
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/MrAdamUs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/MrAdamUS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mradamus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MrMawlawi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MrAdamUS"><img src="https://github-readme-stats.vercel.app/api?username=MrAdamUS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MrAdamUS's GitHub stats" /></a>
-
-<a href="http://www.github.com/MrAdamUS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAdamUS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/MrAdamUS"><img src="https://activity-graph.herokuapp.com/graph?username=MrAdamUS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MrAdamUS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdamUS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.codepen.io/MrAdamUs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/MrAdamUS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/mradamus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/MrMawlawi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/MrAdamUS"><img src="https://github-readme-stats.vercel.app/api?username=MrAdamUS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MrAdamUS's GitHub stats" /></a><a
+                      href="http://www.github.com/MrAdamUS"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=MrAdamUS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/MrAdamUS"><img src="https://activity-graph.herokuapp.com/graph?username=MrAdamUS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/MrAdamUS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAdamUS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
