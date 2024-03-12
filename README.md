@@ -8,7 +8,7 @@ I’m working as a Software Engineer and contributing to frontend and backend of
 
 * 🌍  I'm based in USA
 * ✉️  You can contact me at [mr.mawlawi@gmail.com](mailto:mr.mawlawi@gmail.com)
-* 🚀  I'm currently working on [one of BestBuy Health Cloud Application](http://https://healthcare.bestbuy.com/](https://www.bestbuyhealth.com/))
+* 🚀  I'm currently working on [one of BestBuy Health Cloud Application](https://www.bestbuyhealth.com/)
 * 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Projects
 
