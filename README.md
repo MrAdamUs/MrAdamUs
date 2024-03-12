@@ -7,7 +7,7 @@ Full Stack MERN Engineer
 I’m working as a Software Engineer and contributing to frontend and backend of building web applications.
 
 * 🌍  I'm based in USA
-* ✉️  You can contact me at [adam@mradam.us](mailto:mr.mawlawi@gmail.com)
+* ✉️  You can contact me at [mr.mawlawi@gmail.com](mailto:mr.mawlawi@gmail.com)
 * 🚀  I'm currently working on [one of BestBuy Health Cloud Application](http://https://healthcare.bestbuy.com/)
 * 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Projects
